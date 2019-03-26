@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: commons-logging-1.2.jar spring-beans-4.3.14.RELEASE.jar sp
+ ring-core-4.3.14.RELEASE.jar spring-context-4.3.14.RELEASE.jar spring
+ -expression-4.3.14.RELEASE.jar mybatis-3.4.1.jar spring-aop-4.3.14.RE
+ LEASE.jar spring-tx-4.3.14.RELEASE.jar
+Main-Class: com.yuxiu.edu.App
+
